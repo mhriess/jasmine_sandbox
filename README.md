@@ -7,9 +7,9 @@ A development sandbox for playing with the [Jasmine testing library](http://pivo
 1. Download the repo files and open the spec runner page in a browser
 
 ```bash
-git clone git@github.com:openspectrum/jasmine_sandbox.git
+git clone https://github.com/dbc-challenges/jasmine_sandbox.git
 cd jasmine_sandbox
-open SpecRunner -a Google\ Chrome # or whichever browser you prefer
+open SpecRunner.html -a Google\ Chrome.app # or whichever browser you prefer
 ```
 
 2. Add your source code to `src/Script.js` and your specs to `spec/Spec.js`
