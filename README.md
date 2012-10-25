@@ -2,7 +2,7 @@
 
 A development sandbox for playing with the [Jasmine testing library](http://pivotal.github.com/jasmine/).
 
-## Getting Started
+### Getting Started
 
 1. Download the repo files and open the spec runner page in a browser
 
